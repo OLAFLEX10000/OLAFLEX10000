@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Olamide Michael 👋
+Full-Stack Developer
 
-<!--
-**OLAFLEX10000/OLAFLEX10000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer passionate about building fast, scalable, and user-focused web applications. I enjoy turning ideas into functional digital products and continuously exploring new technologies to improve the way I build.
 
-Here are some ideas to get you started:
+Frontend → Backend → Database → APIs → Deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I Do
+🌐 Build modern, responsive web applications
+⚛️ Develop interactive frontends with React and Next.js
+🛠️ Build backend services and REST APIs
+🗄️ Work with databases and data-driven applications
+🔐 Implement authentication and application logic
+📦 Build reusable and maintainable components
+🚀 Deploy and optimize applications for production
