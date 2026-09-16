@@ -3,6 +3,7 @@
 ### Frontend Developer → Backend Developer 
 I'm a Frontend Developer passionate about building fast, responsive, and user-focused web applications. I'm currently expanding my skills into backend development with **Python and FastAPI**, with the goal of becoming a well-rounded Full-Stack Developer.
 I enjoy turning ideas into functional digital products and continuously learning new technologies to improve the way I build.
+
 **Frontend → Backend → Databases → APIs → Deployment**
 
 ## 🚀 What I Do
